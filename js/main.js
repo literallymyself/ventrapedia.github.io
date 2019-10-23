@@ -76,3 +76,4 @@
     });
 
 })(jQuery);
+console.log('done');
