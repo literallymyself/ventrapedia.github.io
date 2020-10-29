@@ -445,8 +445,29 @@ Primary use:
     height: 500px;
   } */
 
+  
   .respon2 {
     display: none;
+  }
+}
+
+
+
+/* adding some changes */
+
+.m2-txt1 {
+  line-height: 40px;
+}
+.size2{
+  background-color: #f43568;
+}
+.cl1 {
+  color: #fff;
+}
+
+@media screen and (max-width: 480px){
+  .wrap-input100, .size2 {
+    height: 60px;
   }
 }
 
